@@ -4,6 +4,8 @@
   alt="Github Stats"/>
 
 ### Olá, meu nome é Victor Guilherme!
+[![Linkedin](https://img.shields.io/badge/-LINKEDIN-006bed?&color=222222&style=for-the-badge&link=v1ctor-guilherme)](https://www.linkedin.com/in/v1ctor-guilherme)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?&color=222222&style=for-the-badge&link=mailto:victor.guilherme.0403001@gmail.com)](mailto:victor.guilherme.0403001@gmail.com)
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=V1ctor-Guilherme&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static linkdin">
 
