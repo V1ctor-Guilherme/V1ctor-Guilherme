@@ -5,7 +5,6 @@
 
 ### Olá, meu nome é Victor Guilherme!
 [![Linkedin](https://img.shields.io/badge/-LINKEDIN-f8efd4?&color=333333&style=for-the-badge&link=v1ctor-guilherme)](https://www.linkedin.com/in/v1ctor-guilherme)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-f8efd4?&color=333333&style=for-the-badge&link=mailto:victor.guilherme.0403001@gmail.com)](mailto:victor.guilherme.0403001@gmail.com)
 
 <p>Atualmente, estou cursando <strong>Técnico em Desenvolvimento de Sistemas</strong></p>
 
